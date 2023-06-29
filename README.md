@@ -15,7 +15,7 @@ Header
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Nazarii14)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Nazarii14)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Nazarii14)
+[![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://github.com/Nazarii14)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=openjdk)](https://github.com/Nazarii14)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Nazarii14)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Nazarii14)
