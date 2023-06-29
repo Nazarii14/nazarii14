@@ -4,7 +4,7 @@ Header
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
-    <a href="https://www.linkedin.com/in/wervlad">
+    <a href="https://www.linkedin.com/in/nazarii-protskiv-3876b6277/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://leetcode.com/Rosaka/">
@@ -30,7 +30,6 @@ Header
 
 ### Technologies & Frameworks
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/Nazarii14)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Nazarii14)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Nazarii14)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Nazarii14)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Nazarii14)
