@@ -1,5 +1,3 @@
-Header
-
 ## I'm Junior Python Developer from Lviv, Ukraine
 
 <p align="center">
