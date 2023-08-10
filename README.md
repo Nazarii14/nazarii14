@@ -47,7 +47,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=Telegram)](https://t.me/zbyrachnosochkiv)&nbsp;&nbsp;
 [![Facebook](https://img.shields.io/badge/facebook-white?style=for-the-badge&logo=facebook)](https://www.facebook.com/nazarii.protskiv/)
 
-![Nazarii14 stats](https://github-readme-stats.vercel.app/api?username=nazarii14&show_icons=true&theme=tokyonight&")
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=nazarii14&show_icons=true&theme=tokyonight&">
+</p>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nazarii14&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight">
