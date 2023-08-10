@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ## Hello, I'm Junior Python Developer from Lviv, Ukraine
-=======
-## I'm Junior Python Developer from Lviv, Ukraine
->>>>>>> origin/main
 
 <p align="center">
     <b><span style="font-size: 18px;">Welcome to my page!</span></b>
@@ -18,7 +14,6 @@
 [![PostgreSQL](https://img.shields.io/badge/postgresql-B0E0E6?style=for-the-badge&logo=postgreSQL)](https://github.com/Nazarii14)
 
 ### Technologies & Frameworks
-<<<<<<< HEAD
 
 [![Django](https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django)](https://github.com/Nazarii14)
 [![Flask](https://img.shields.io/badge/flask-262626?style=for-the-badge&logo=flask)](https://github.com/Nazarii14)
@@ -45,9 +40,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=Telegram)](https://t.me/zbyrachnosochkiv)
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin)](https://www.facebook.com/nazarii.protskiv/)
 [![Facebook](https://img.shields.io/badge/facebook-white?style=for-the-badge&logo=facebook)](https://www.facebook.com/nazarii.protskiv/)
-=======
-[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/Nazarii14)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Nazarii14)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Nazarii14)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Nazarii14)
->>>>>>> origin/main
