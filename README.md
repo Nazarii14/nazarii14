@@ -8,7 +8,7 @@
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=nazarii14&style=flat-square)
+![](https://komarev.com/ghpvc/?username=nazarii14&style=for-the-badge)
 
 
 ### Languages and Tools
