@@ -8,7 +8,6 @@
 
 </p>
 
-#### Profile views
 ![](https://komarev.com/ghpvc/?username=nazarii14)
 
 ### Languages and Tools
