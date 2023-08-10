@@ -8,7 +8,7 @@
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=nazarii14)
+![](https://komarev.com/ghpvc/?username=nazarii14&style=flat-square)
 
 ### Languages and Tools
 
