@@ -38,5 +38,5 @@
 
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=Q3jORCiOIkU)
 [![Telegram](https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=Telegram)](https://t.me/zbyrachnosochkiv)
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin)](https://www.facebook.com/nazarii.protskiv/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nazarii-protskiv-3876b6277/)
 [![Facebook](https://img.shields.io/badge/facebook-white?style=for-the-badge&logo=facebook)](https://www.facebook.com/nazarii.protskiv/)
