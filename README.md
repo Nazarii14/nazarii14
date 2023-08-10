@@ -8,6 +8,9 @@
 
 </p>
 
+#### Profile views
+![](https://komarev.com/ghpvc/?username=nazarii14)
+
 ### Languages and Tools
 
 [![Python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python)](https://github.com/Nazarii14)&nbsp;&nbsp;
