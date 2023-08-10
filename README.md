@@ -46,3 +46,5 @@
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=Q3jORCiOIkU)&nbsp;&nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=Telegram)](https://t.me/zbyrachnosochkiv)&nbsp;&nbsp;
 [![Facebook](https://img.shields.io/badge/facebook-white?style=for-the-badge&logo=facebook)](https://www.facebook.com/nazarii.protskiv/)
+
+[![Nazarii14 stats](https://github-readme-stats.vercel.app/api?username=nazarii14&show_icons=true)]
