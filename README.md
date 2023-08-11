@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Nazarii 👩‍💻</h1>
+<h1 align='center'> Hi there 👋, I'm Nazarii 👨‍💻</h1>
 
 <h6 align="center" style="font-size: 13px;">I live in Lviv, Ukraine</h6>
 
