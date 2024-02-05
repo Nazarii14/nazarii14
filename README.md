@@ -49,14 +49,14 @@
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=nazarii14&show_icons=true&theme=tokyonight&">
+  <img src = "https://github-readme-stats.vercel.app/api?username=nazarii14&show_icons=true&theme=transparent&">
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nazarii14&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nazarii14&hide=html,css,java,shaderlab,kotlin,hlsl&theme=transparent">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nazarii14&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nazarii14&show_icons=true&locale=en&layout=compact&theme=transparent&line_height=0"/>
 </p> 
 
