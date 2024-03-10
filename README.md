@@ -14,7 +14,7 @@
 ### Languages and Tools
 
 [![Python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python)](https://github.com/Nazarii14)&nbsp;&nbsp;
-[![Go](https://img.shields.io/badge/golang-blue?style=for-the-badge&logo=go)](https://github.com/Nazarii14)&nbsp;&nbsp;
+[![Go](https://img.shields.io/badge/go-blue?style=for-the-badge&logo=go)](https://github.com/Nazarii14)&nbsp;&nbsp;
 [![C++](https://img.shields.io/badge/c%2b%2b-rose?style=for-the-badge&logo=cplusplus)](https://github.com/Nazarii14)&nbsp;&nbsp;
 [![C#](https://img.shields.io/badge/c%23-purple?style=for-the-badge&logo=csharp)](https://github.com/Nazarii14)&nbsp;&nbsp;
 [![JavaScript](https://img.shields.io/badge/javascript-555555?style=for-the-badge&logo=javascript)](https://github.com/Nazarii14)&nbsp;&nbsp;
