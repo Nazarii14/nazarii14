@@ -50,14 +50,14 @@
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=nazarii14&show_icons=true&theme=radical&">
+  <img src = "https://github-readme-stats.vercel.app/api?username=nazarii14&show_icons=true&theme=tokyonight&">
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nazarii14&hide=html,C#,jupyternotebook&theme=dark">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nazarii14&hide=html,C#,jupyternotebook&theme=tokyonight">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nazarii14&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nazarii14&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0"/>
 </p> 
 
