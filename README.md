@@ -55,7 +55,7 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nazarii14&hide=html,jupyternotebook&theme=dark">
-  ![Nazarii14's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazarii14&show_icons=true)
+  <img src = "![Nazarii14's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazarii14&show_icons=true)">
 
 </p>
 
