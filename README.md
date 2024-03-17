@@ -22,17 +22,17 @@
 [![Flask](https://img.shields.io/badge/flask-262626?style=for-the-badge&logo=flask)](https://github.com/Nazarii14)&nbsp;&nbsp;
 [![FastApi](https://img.shields.io/badge/FastApi-lightgreen?style=for-the-badge&logo=FastApi)](https://github.com/Nazarii14)&nbsp;&nbsp;
 
+<p align = "center">
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nazarii14&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0"/>
+</p> 
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=nazarii14&show_icons=true&theme=tokyonight&">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nazarii14&hide=html,css&theme=tokyonight">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nazarii14&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0"/>
 </p>
 
 <p align = "center">
-  
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nazarii14&hide='html,css'&theme=tokyonight">
 </p>
 
-<p align = "center">
-</p> 
+
 
