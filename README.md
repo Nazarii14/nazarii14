@@ -10,12 +10,11 @@
 ![](https://komarev.com/ghpvc/?username=nazarii14&style=for-the-badge)
 
 
-### Languages and Tools
+### Languages
 
 [![Python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python)](https://github.com/Nazarii14)&nbsp;&nbsp;
 [![Go](https://img.shields.io/badge/go-blue?style=for-the-badge&logo=go)](https://github.com/Nazarii14)&nbsp;&nbsp;
 [![JavaScript](https://img.shields.io/badge/javascript-555555?style=for-the-badge&logo=javascript)](https://github.com/Nazarii14)&nbsp;&nbsp;
-[![PostgreSQL](https://img.shields.io/badge/postgresql-B0E0E6?style=for-the-badge&logo=postgreSQL)](https://github.com/Nazarii14)
 
 ### Frameworks
 
