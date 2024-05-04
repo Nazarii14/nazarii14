@@ -30,7 +30,7 @@
 </p>
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarii14&hide=css,vim%20script,jupyter%20notebook,Mathematica,csharp,TeX,HTML,c#,C#,c%20sharp,C%20SHARP,c%20#,C%20#&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarii14&hide=css,vim%20script,jupyter%20notebook,Mathematica,csharp,TeX,HTML,c%23,C%23,c%20%23,C%20%23,c%20%23,C%20%23&theme=tokyonight">
 </p>
 
 
